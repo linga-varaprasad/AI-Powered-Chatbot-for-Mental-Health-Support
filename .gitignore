@@ -1,0 +1,11 @@
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore environment variables and virtual environment
+.env
+healthenv/
